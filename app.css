@@ -2909,7 +2909,7 @@ main {
 
 footer {
     width: 100%;
-    background: rgb(225, 215, 255);
+    background: rgb(205 241 174);
     position: relative;
     z-index: 1;
     border-radius: 15px;
@@ -3150,7 +3150,7 @@ footer .layer .footer-body .social li a img {
 
 footer .footer-end {
     text-align: center;
-    background: #d4c6ff;
+    background:rgb(118, 171, 75 );
     padding: 10px 0px
 }
 
