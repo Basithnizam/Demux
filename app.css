@@ -14,7 +14,7 @@
 }
 
 .cta-secondary {
-    background: #433656;
+    background: #16281c;
     padding: 10px 20px;
     border-radius: 100px;
     text-decoration: none;
@@ -121,7 +121,7 @@ header .container nav ul li a {
 
 header .container nav ul li a:hover {
     background-color: #f0f0f0;
-    background-image: linear-gradient(330deg, hsl(262, 91%, 69%) 0%, hsl(260, 100%, 78%) 38%, hsl(315, 100%, 70%) 65%, hsl(0, 100%, 40%) 100%);
+    background-image: linear-gradient(330deg, hsl(134.4deg 93.99% 24.62%) 0%, hsl(127.14deg 91.06% 38.94%) 38%, hsl(179.38deg 87.39% 21.76%) 65%, hsl(109.96deg 100% 46.46%) 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -130,7 +130,7 @@ header .container nav ul li a:hover {
 
 header .container nav ul li .active {
     background-color: #f0f0f0;
-    background-image: linear-gradient(330deg, hsl(262, 91%, 69%) 0%, hsl(260, 100%, 78%) 38%, hsl(315, 100%, 70%) 65%, hsl(0, 100%, 40%) 100%);
+    background-image: linear-gradient(330deg, hsl(134.4deg 93.99% 24.62%) 0%, hsl(127.14deg 91.06% 38.94%) 38%, hsl(179.38deg 87.39% 21.76%) 65%, hsl(109.96deg 100% 46.46%) 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -141,7 +141,7 @@ header .container .hangburger {
     width: 40px;
     height: 40px;
     border-radius: 100%;
-    background: #433656;
+    background: #16281c;
     position: relative;
     cursor: pointer;
     display: none;
@@ -341,7 +341,7 @@ header .container .social ul li a {
 
 .menu ul li {
     list-style: none;
-    border-bottom: 1px solid #433656
+    border-bottom: 1px solid #16281c
 }
 
 .menu ul li:last-child {
@@ -448,7 +448,7 @@ h1 span,
 h2 span,
 h3 span {
     background-color: #f0f0f0;
-    background-image: linear-gradient(330deg, hsl(262, 91%, 69%) 0%, hsl(260, 100%, 78%) 38%, hsl(315, 100%, 70%) 65%, hsl(0, 100%, 40%) 100%);
+    background-image: linear-gradient(330deg, hsl(76.81deg 64.27% 50.14%) 0%, hsl(179.39deg 89.09% 21.57%) 50%, hsl(127.14deg 40.38% 59.22%) 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -1096,7 +1096,7 @@ main {
 
 #team .heading .title span {
     background-color: #f0f0f0;
-    background-image: linear-gradient(330deg, hsl(262, 91%, 69%) 0%, hsl(260, 100%, 78%) 38%, hsl(315, 100%, 70%) 65%, hsl(0, 100%, 40%) 100%);
+    background-image: linear-gradient(330deg, hsl(76.81deg 64.27% 50.14%) 0%, hsl(179.39deg 89.09% 21.57%) 50%, hsl(127.14deg 40.38% 59.22%) 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
@@ -1245,7 +1245,7 @@ main {
 
 #narrator .wrapper h1 {
     font-size: 20vh;
-    color: #433656
+    color: #16281c
 }
 
 #technology-we-are-using {
@@ -3160,7 +3160,7 @@ footer .footer-end {
 
 .testimonials .card {
     width: 33.3333333333%;
-    background: #433656;
+    background: #16281c;
     border-radius: 10px
 }
 
@@ -3303,7 +3303,7 @@ footer .footer-end {
     font-size: 60px;
     font-weight: 900;
     background-color: #f0f0f0;
-    background-image: linear-gradient(330deg, hsl(262, 91%, 69%) 0%, hsl(260, 100%, 78%) 38%, hsl(315, 100%, 70%) 65%, hsl(0, 100%, 40%) 100%);
+    background-image: linear-gradient(330deg, hsl(77, 98%, 48%) 0%, hsl(179, 50%, 47%) 50%, hsl(127, 56%, 49%) 100%);
     background-clip: text;
     -webkit-background-clip: text;
     -webkit-text-fill-color: transparent;
